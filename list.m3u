@@ -84,3 +84,27 @@ http://ipc.proipciptv.com:8000/live/stalker/maybeda/7488.ts
 http://ipc.proipciptv.com:8000/live/stalker/maybeda/7468.ts
 #EXTINF:-1,RO:Viasat_Nature
 http://ipc.proipciptv.com:8000/live/stalker/maybeda/7487.ts
+#EXTINF:-1,RO:B1 Tv
+http://pro.satlover.com:58080/live/theglades/T8hXE6CRgn/1528.ts 
+#EXTINF:-1,RO:TVR 1
+http://89.38.8.130:39410
+#EXTINF:-1,RO:TVR 2
+http://89.38.8.130:39411
+#EXTINF:-1,RO:TVR 3
+http://89.38.8.130:39433
+#EXTINF:-1,RO:TVR HD
+http://89.38.8.131:39525
+#EXTINF:-1,RO: PRO TV (1)
+http://89.38.8.130:39415
+#EXTINF:-1,RO:PRO TV (2)
+http://86.106.82.101:7088/udp/239.80.14.3:5000
+#EXTINF:-1,RO:PRO TV HD
+http://89.38.8.131:39532
+#EXTINF:-1,RO:Kanal D
+http://80.86.107.169/iphone/live.m3u8
+#EXTINF:-1,RO:Digi 24 (1)
+http://82.76.40.76/digi24edge/digi24hdhqhls/index.m3u8
+#EXTINF:-1,RO:Digi 24 (2)
+http://86.106.82.101:7088/udp/239.80.19.2:5000
+#EXTINF:-1,RO:Realitatea TV
+http://realitatea.m247.ro/hls/live.m3u8 
