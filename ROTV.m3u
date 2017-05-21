@@ -1,148 +1,109 @@
-#EXTM3U
-#EXTINF:-1,SUPER RTL
-http://80.86.107.224:49999/udp/224.5.0.3:1234
-#EXTINF:-1,Eurosport Romania
-http://80.86.107.224:49999/udp/224.5.0.5:1234
-#EXTINF:-1,VOX
-http://80.86.107.224:49999/udp/224.5.0.4:1234
-#EXTINF:-1,RTL2
-http://80.86.107.224:49999/udp/224.5.0.2:1234
-#EXTINF:-1,SAT.1
-http://80.86.107.224:49999/udp/224.5.0.7:1234
-#EXTINF:-1,ESP2 NE Romania
-http://80.86.107.224:49999/udp/224.5.0.6:1234
-#EXTINF:-1,N24
-http://80.86.107.224:49999/udp/224.5.0.8:1234
-#EXTINF:-1,CNNi
-http://80.86.107.224:49999/udp/224.5.0.9:1234
-#EXTINF:-1,ProSieben
-http://80.86.107.224:49999/udp/224.5.0.10:1234
-#EXTINF:-1,Euronews
-http://80.86.107.224:49999/udp/224.5.0.11:1234
-#EXTINF:-1,Novi kanal
-http://80.86.107.224:49999/udp/224.5.0.12:1234
-#EXTINF:-1,Nat Geo Wild (ROU)
-http://80.86.107.224:49999/udp/224.5.0.17:1234
-#EXTINF:-1,National Geographic RO
-http://80.86.107.224:49999/udp/224.5.0.18:1234
-#EXTINF:-1,B1 TV
-http://80.86.107.224:49999/udp/224.5.0.21:1234
-#EXTINF:-1,Etno
-http://80.86.107.224:49999/udp/224.5.0.26:1234
-#EXTINF:-1,Cartoon Network
-http://80.86.107.224:49999/udp/224.5.0.28:1234
-#EXTINF:-1,France 24 (in English)
-http://80.86.107.224:49999/udp/224.5.0.31:1234
-#EXTINF:-1,Service01
-http://80.86.107.224:49999/udp/224.5.0.35:1234
-#EXTINF:-1,Rai 1
-http://80.86.107.224:49999/udp/224.5.0.36:1234
-#EXTINF:-1,Rai 2
-http://80.86.107.224:49999/udp/224.5.0.37:1234
-#EXTINF:-1,Taraf
-http://80.86.107.224:49999/udp/224.5.0.47:1234
-#EXTINF:-1,Nickelodeon Europe
-http://80.86.107.224:49999/udp/224.5.0.49:1234
-#EXTINF:-1,TV1000 Balkan FSS
-http://80.86.107.224:49999/udp/224.5.0.50:1234
-#EXTINF:-1,DW
-http://80.86.107.224:49999/udp/224.5.0.53:1234
-#EXTINF:-1,BBC World News
-http://80.86.107.224:49999/udp/224.5.0.55:1234
-#EXTINF:-1,Fashion TV
-http://80.86.107.224:49999/udp/224.5.0.57:1234
-#EXTINF:-1,BRAZZERS TV Europe
-http://80.86.107.224:49999/udp/224.5.0.58:1234
-#EXTINF:-1,Al Jazeera English
-http://80.86.107.224:49999/udp/224.5.0.60:1234
-#EXTINF:-1,VH1 Classic
-http://80.86.107.224:49999/udp/224.5.0.61:1234
-#EXTINF:-1,VH1
-http://80.86.107.224:49999/udp/224.5.0.62:1234
-#EXTINF:-1,SportM
-http://80.86.107.224:49999/udp/224.5.0.63:1234
-#EXTINF:-1,Rai News 24
-http://80.86.107.224:49999/udp/224.5.0.65:1234
-#EXTINF:-1,Extreme EMEA
-http://80.86.107.224:49999/udp/224.5.0.64:1234
-#EXTINF:-1,DCRO
-http://80.86.107.224:49999/udp/224.5.0.66:1234
-#EXTINF:-1,CCTV NEWS
-http://80.86.107.224:49999/udp/224.5.0.68:1234
-#EXTINF:-1,Reality EMEA 1
-http://80.86.107.224:49999/udp/224.5.0.67:1234
-#EXTINF:-1,Service01
-http://80.86.107.224:49999/udp/224.5.0.70:1234
-#EXTINF:-1,Minimax Ro
-http://80.86.107.224:49999/udp/224.5.0.71:1234
-#EXTINF:-1,BBC Entertainment Europe
-http://80.86.107.224:49999/udp/224.5.0.73:1234
-#EXTINF:-1,Service01
-http://80.86.107.224:49999/udp/224.5.0.74:1234
-#EXTINF:-1,Service01
-http://80.86.107.224:49999/udp/224.5.0.75:1234
-#EXTINF:-1,Rai 3
-http://80.86.107.224:49999/udp/224.5.0.77:1234
-#EXTINF:-1,kabel eins
-http://80.86.107.224:49999/udp/224.5.0.79:1234
-#EXTINF:-1,U tv
-http://80.86.107.224:49999/udp/224.5.0.80:1234
-#EXTINF:-1,Novi kanal
-http://80.86.107.224:49999/udp/224.5.0.83:1234
-#EXTINF:-1,Novi kanal
-http://80.86.107.224:49999/udp/224.5.0.84:1234
-#EXTINF:-1,Redlight HD
-http://80.86.107.224:49999/udp/224.5.0.87:1234
-#EXTINF:-1,HBO Romania T
-http://80.86.107.224:49999/udp/224.5.0.90:1234
-#EXTINF:-1,Bloomberg European TV
-http://80.86.107.224:49999/udp/224.5.0.91:1234
-#EXTINF:-1,n-tv
-http://80.86.107.224:49999/udp/224.5.0.92:1234
-#EXTINF:-1,Travel
-http://80.86.107.224:49999/udp/224.5.0.94:1234
-#EXTINF:-1,Viasat History (FSS)
-http://80.86.107.224:49999/udp/224.5.0.96:1234
-#EXTINF:-1,Kanal D
-http://80.86.107.224:49999/udp/224.5.0.97:1234
-#EXTINF:-1,Cinemax Hungary/Czech/Romania T
-http://80.86.107.224:49999/udp/224.5.0.98:1234
-#EXTINF:-1,Cinemax 2 Hungary/Czech/Romania T
-http://80.86.107.224:49999/udp/224.5.0.100:1234
-#EXTINF:-1,France 24 (en Français)
-http://80.86.107.224:49999/udp/224.5.0.104:1234
-#EXTINF:-1,AXN Black
-http://80.86.107.224:49999/udp/224.5.0.106:1234
-http://89.38.8.130:39482
-#EXTINF:-1,ID
-http://89.38.8.130:39483
-#EXTINF:-1,History
-http://89.38.8.130:39484
-#EXTINF:-1,History HD
-http://89.38.8.131:39528
-#EXTINF:-1,JimJam
-http://89.38.8.131:39499
-#EXTINF:-1,JIM JAM
-http://89.38.8.131:39515
-#EXTINF:-1,Fishing & Hunting
-http://89.38.8.131:39498
-#EXTINF:-1,Paprika
-http://89.38.8.131:39497
-#EXTINF:-1,1 Classic
-http://89.38.8.131:39496
-#EXTINF:-1,AMC
-http://89.38.8.131:39487
-#EXTINF:-1,Fine Living
-http://89.38.8.131:39485
-#EXTINF:-1,TV Sat
-http://89.38.8.130:39443
-#EXTINF:-1,DaVinci
-http://89.38.8.130:39444
-#EXTINF:-1,Romania Tv
-http://89.38.8.130:39445
-#EXTINF:-1,ZU Tv
-http://89.38.8.130:39429
-#EXTINF:-1,TvSE
-http://89.38.8.130:39419
-#EXTINF:-1,Speranta
-http://89.38.8.130:39462
+#EXTINF:-1,*******  ROMANIA TV *******
+#EXTINF:-1,RO: Romania Tv
+http://ksportiptv.com:1557/live/semi/semi/5423.ts
+#EXTINF:-1,RO: AMC
+http://ksportiptv.com:1557/live/semi/semi/5384.ts
+#EXTINF:-1,RO: Animal Planet
+http://ksportiptv.com:1557/live/semi/semi/5385.ts
+#EXTINF:-1,RO: Boomerang
+http://ksportiptv.com:1557/live/semi/semi/5386.ts
+#EXTINF:-1,RO: Canal D HD
+http://ksportiptv.com:1557/live/semi/semi/5387.ts
+#EXTINF:-1,RO: Cartoon Network
+http://ksportiptv.com:1557/live/semi/semi/5388.ts
+#EXTINF:-1,RO: Cinemax 2
+http://ksportiptv.com:1557/live/semi/semi/5389.ts
+#EXTINF:-1,RO: Cinemax HD RO
+http://ksportiptv.com:1557/live/semi/semi/5390.ts
+#EXTINF:-1,RO: Cinemax/Megamax RO
+http://ksportiptv.com:1557/live/semi/semi/5391.ts
+#EXTINF:-1,RO: 1 Music Channel
+http://ksportiptv.com:1557/live/semi/semi/5383.ts
+#EXTINF:-1,RO: Crime & Investigation
+http://ksportiptv.com:1557/live/semi/semi/5392.ts
+#EXTINF:-1,RO: Antena 1
+http://ksportiptv.com:1557/live/semi/semi/7548.ts
+#EXTINF:-1,RO: Digi 24
+http://ksportiptv.com:1557/live/semi/semi/5393.ts
+#EXTINF:-1,RO: DIGI 24 Craiova
+http://ksportiptv.com:1557/live/semi/semi/5394.ts
+#EXTINF:-1,RO: DIGI 24 Galati
+http://ksportiptv.com:1557/live/semi/semi/5395.ts
+#EXTINF:-1,RO: Digi Animal World
+http://ksportiptv.com:1557/live/semi/semi/5396.ts
+#EXTINF:-1,RO: Digi Film
+http://ksportiptv.com:1557/live/semi/semi/5397.ts
+#EXTINF:-1,RO: Digi Life
+http://ksportiptv.com:1557/live/semi/semi/5398.ts
+#EXTINF:-1,RO: Digi World
+http://ksportiptv.com:1557/live/semi/semi/5400.ts
+#EXTINF:-1,RO: Discovery channel
+http://ksportiptv.com:1557/live/semi/semi/5401.ts
+#EXTINF:-1,RO: Discovery science
+http://ksportiptv.com:1557/live/semi/semi/5403.ts
+#EXTINF:-1,RO: Disney Channel
+http://ksportiptv.com:1557/live/semi/semi/5404.ts
+#EXTINF:-1,RO: Disney Junior
+http://ksportiptv.com:1557/live/semi/semi/5405.ts
+#EXTINF:-1,RO: Happy Channel
+http://ksportiptv.com:1557/live/semi/semi/5412.ts
+#EXTINF:-1,RO: HBO 2
+http://ksportiptv.com:1557/live/semi/semi/5413.ts
+#EXTINF:-1,RO: HBO 3
+http://ksportiptv.com:1557/live/semi/semi/5414.ts
+#EXTINF:-1,RO: HBO Romania
+http://ksportiptv.com:1557/live/semi/semi/5415.ts
+#EXTINF:-1,RO: Viasat History
+http://ksportiptv.com:1557/live/semi/semi/5425.ts
+#EXTINF:-1,RO: Viasat Nature
+http://ksportiptv.com:1557/live/semi/semi/5426.ts
+#EXTINF:-1,RO: History Channel
+http://ksportiptv.com:1557/live/semi/semi/5416.ts
+#EXTINF:-1,RO: Music Channel
+http://ksportiptv.com:1557/live/semi/semi/5417.ts
+#EXTINF:-1,RO: Nat Geo Wild
+http://ksportiptv.com:1557/live/semi/semi/5418.ts
+#EXTINF:-1,RO: National 24+
+http://ksportiptv.com:1557/live/semi/semi/5419.ts
+#EXTINF:-1,RO: National Geographic
+http://ksportiptv.com:1557/live/semi/semi/5420.ts
+#EXTINF:-1,RO: National TV
+http://ksportiptv.com:1557/live/semi/semi/5421.ts
+#EXTINF:-1,RO: Nickelodeon
+http://ksportiptv.com:1557/live/semi/semi/5422.ts
+#EXTINF:-1,RO: PRO CINEMA
+http://ksportiptv.com:1557/live/semi/semi/7932.ts
+#EXTINF:-1,RO: PRO TV HD
+http://ksportiptv.com:1557/live/semi/semi/7933.ts
+#EXTINF:-1,RO: TV 1000 HD
+http://ksportiptv.com:1557/live/semi/semi/7931.ts
+#EXTINF:-1,RO:DIBI TV (Music) Balkan
+http://ksportiptv.com:1557/live/semi/semi/6023.ts
+#EXTINF:-1,RO: ETNO TV HD
+http://ksportiptv.com:1557/live/semi/semi/5736.ts
+#EXTINF:-1,RO: ACASA TV
+http://ksportiptv.com:1557/live/semi/semi/5735.ts
+#EXTINF:-1,RO: MUSIC HITS '17 (music only -  numai muzica)
+http://ksportiptv.com:1557/live/semi/semi/5743.ts
+#EXTINF:-1,RO: Dolce Sport 1 HD
+http://ksportiptv.com:1557/live/semi/semi/5406.ts
+#EXTINF:-1,RO: DOLCE SPORT2 HD
+http://ksportiptv.com:1557/live/semi/semi/5407.ts
+#EXTINF:-1,RO: Eurosport
+http://ksportiptv.com:1557/live/semi/semi/5408.ts
+#EXTINF:-1,RO: Eurosport 1 HD RO
+http://ksportiptv.com:1557/live/semi/semi/5409.ts
+#EXTINF:-1,RO: Eurosport 2
+http://ksportiptv.com:1557/live/semi/semi/5410.ts
+#EXTINF:-1,RO: Sport RO
+http://ksportiptv.com:1557/live/semi/semi/5424.ts
+#EXTINF:-1,RO: DIGI SPORTS 1
+http://ksportiptv.com:1557/live/semi/semi/5742.ts
+#EXTINF:-1,RO: DIGI SPORTS 2
+http://ksportiptv.com:1557/live/semi/semi/5741.ts
+#EXTINF:-1,RO: DIGI SPORTS 3
+http://ksportiptv.com:1557/live/semi/semi/5740.ts
+#EXTINF:-1,RO: DIGI SPORTS 4
+http://ksportiptv.com:1557/live/semi/semi/5739.ts
+#EXTINF:-1,RO: Digi Sport 4
+http://ksportiptv.com:1557/live/semi/semi/5399.ts
